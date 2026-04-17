@@ -1,0 +1,4 @@
+export ANTHROPIC_BASE_URL="$1"
+export ANTHROPIC_AUTH_TOKEN="$2"
+export ANTHROPIC_MODEL="$3"
+claude
